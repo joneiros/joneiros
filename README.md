@@ -1,4 +1,16 @@
-### Hi there 👋
+<h2> Hi, I'm Jon 👋 </h2>
+About Me:
+
+- Full-Stack (Backend-focused) Software Developer
+- Baker, Blogger, Dog Enthusiast, Tree Planter
+- Most recently working in PHP
+- Open to work!
+- Improving: Angular, Javascript
+- Picking up: React, Typescript
+
+<h2 align='center'> ⬇️ Check out my site! ⬇️ </h2>
+
+[![The top of the jongander.com landing page](/site-snapshot.png)](https://jongander.com)
 
 <!--
 **joneiros/joneiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
