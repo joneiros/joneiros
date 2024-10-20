@@ -1,14 +1,18 @@
 <h2> Hi, I'm Jon 👋 </h2>
 About Me:
 
-- Full-Stack (Backend-focused) Software Developer
+- Software Developer (with experience in backend, frontend, and video games)
 - Baker, Blogger, Dog Enthusiast, Tree Planter
 - Most recently working in PHP
-- Open to work!
 - Improving: Angular, Javascript
 - Picking up: React, Typescript
+- Open to work!
 
-<h2 align='center'> ⬇️ I write for pleasure about life and code. Check it out! ⬇️ </h2>
+<h2 align='center'>Beyond GitHub</h2>
+
+- I'm building a video game! Check out [Goblin Hotdogs](https://store.steampowered.com/app/2973700/Goblin_Hotdogs/), currently available in Early Access on Steam!
+- ⬇️ I have a blow where I write for pleasure. Check it out! ⬇️
+
 
 [![The top of the jongander.com landing page](/site-snapshot.png)](https://jongander.com)
 
