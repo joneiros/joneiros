@@ -11,7 +11,7 @@ About Me:
 <h2 align='center'>Beyond GitHub</h2>
 
 - I'm building a video game! Check out [Goblin Hotdogs](https://store.steampowered.com/app/2973700/Goblin_Hotdogs/), currently available in Early Access on Steam!
-- ⬇️ I have a blow where I write for pleasure. Check it out! ⬇️
+- ⬇️ I have a blog where I write for pleasure. Check it out! ⬇️
 
 
 [![The top of the jongander.com landing page](/site-snapshot.png)](https://jongander.com)
